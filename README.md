@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hello there! Welcome to my GitHub profile!
+
+🎓 I'm currently pursuing a degree in Electronics and Communication Engineering with a specialization in Artificial Intelligence and Machine Learning. My passion lies at the intersection of technology and innovation. I enjoy working with others to build and improve software 
+
+💻 On GitHub, you'll find a collection of my projects, ranging from personal experiments to contributions to open-source projects. 
+
+👯 I’m looking to collaborate on more open-source projects. 
 [![An image of @shag1802's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shag1802)](https://holopin.io/@shag1802)
 <!--
 **shag1802/shag1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
